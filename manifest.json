@@ -1,0 +1,25 @@
+{
+  "manifest_version": 3,
+  "name": "Calculator Extension",
+  "version": "1.0",
+  "description": "A simple calculator with all possible operations.",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "calculator.png",
+      "48": "calculator.png",
+      "128": "calculator.png"
+    }
+  },
+  "permissions": [
+    "storage"
+  ],
+  "icons": {
+    "16": "calculator.png",
+    "48": "calculator.png",
+    "128": "calculator.png"
+  },
+  "content_security_policy": {
+    "extension_pages": "script-src 'self'; object-src 'self';"
+  }
+}

@@ -1,6 +1,6 @@
 # Calculator Extension
 
-A simple calculator extension for Google Chrome that supports basic arithmetic operations and maintains a history of calculations.
+The Calculator Extension is a sleek and user-friendly tool built for Google Chrome, designed to provide a seamless experience for quick and efficient arithmetic calculations directly within the browser. Whether you’re working on daily tasks or need fast mathematical operations while browsing, this extension helps enhance productivity without the need for external apps or calculators.
 
 ## Features
 
